@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working in **SAMSUNG**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning & working on **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://bhavanshu-1112.github.io/bhavanshu-jain/)
 
